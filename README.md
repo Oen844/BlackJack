@@ -14,7 +14,6 @@ Iniciar un nuevo juego y pedir cartas tomando en cuenta que no debemos sumar mas
 ### **Tecnologías | Lenguajes de Programación | Herramientas | Frameworks | Librerias**
 
 > -   Framework **Bootstrap**
-> -   Preprocesador **SASS**
 > -   JavaScript
 > -   Underscore JS Library
 ### **Caracterisiticas**
